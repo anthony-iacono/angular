@@ -212,7 +212,7 @@ This tutorial uses [stackblitz.com](https://stackblitz.com), for you to explore 
 The following sections are recommended to explore Angular's capabilities further:
 
 *   [Understanding Angular](guide/understanding-angular-overview)
-*   [Angular Developer Guide](guide/developer-guide-overview)
+*   [Angular Developer Guides](guide/developer-guide-overview)
 
 <!-- links -->
 
